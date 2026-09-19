@@ -70,5 +70,12 @@ transactions.
   hosted Postgres (e.g. Neon or Supabase) for a fully cloud-hosted version
 
 ## Screenshots
-_Add screenshots or a demo GIF here once you've run it locally — this is
-what makes the GitHub repo and LinkedIn post land well._
+## Screenshots
+
+### Finance Tracker Dashboard
+
+![Finance Tracker Dashboard](./Screenshot%202026-09-19%20224258.png)
+
+### Finance Tracker
+
+![Finance Tracker](./Screenshot%202026-09-19%20224313.png)
